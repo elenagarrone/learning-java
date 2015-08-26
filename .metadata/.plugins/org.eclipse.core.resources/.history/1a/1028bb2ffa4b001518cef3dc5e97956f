@@ -1,0 +1,7 @@
+import ocean.Fish;
+import ocean.Seaweed;
+
+public class Application {
+	Fish fish = new Fish();
+	Seaweed weed = new Seaweed();
+}

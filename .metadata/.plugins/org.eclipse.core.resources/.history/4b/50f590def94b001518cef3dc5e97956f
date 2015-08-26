@@ -1,0 +1,4 @@
+
+public class Application {
+	Fish fish = new Fish();
+}

@@ -1,0 +1,9 @@
+
+public class Application {
+	public static void main(String[] args) {
+
+		int[] values = {2, 4, 5} // one dimensional array
+		System.out.println(values[2]);
+		
+	}
+}

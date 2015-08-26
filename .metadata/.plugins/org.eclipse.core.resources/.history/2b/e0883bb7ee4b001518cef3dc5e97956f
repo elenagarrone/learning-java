@@ -1,0 +1,15 @@
+class Frog {
+	public String toString() {
+		return "Hello"
+	}
+}
+
+
+public class Application {
+	public static void main(String[] args) {
+		Frog frog1 = new Frog();
+		
+		System.out.println(forg1);
+		
+	}
+}

@@ -1,0 +1,25 @@
+INDEX VERSION 1.127+/Users/elenagarrone/Documents/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3506212862.index
+857888357.index
+3300490308.index
+2340236184.index
+350579712.index
+2172180966.index
+347073488.index
+2171089648.index
+1683569837.index
+3294269612.index
+3087677015.index
+205907446.index
+1014746376.index
+1435083106.index
+487866701.index
+258021902.index
+3204561398.index
+2006005196.index
+1479163095.index
+2046355939.index
+329356116.index
+551320880.index
+2758705365.index
+3408261556.index
