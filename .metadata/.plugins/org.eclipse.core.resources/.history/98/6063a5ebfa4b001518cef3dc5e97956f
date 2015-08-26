@@ -1,8 +1,0 @@
-import ocean.Fish; // This is to import a class from a package
-import ocean.Seaweed;
-// import ocean.* will import everything from the ocean package
-
-public class Application {
-	Fish fish = new Fish();
-	Seaweed weed = new Seaweed();
-}
