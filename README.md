@@ -31,3 +31,5 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 27. [Encapsulation and the API Docs](https://github.com/elenagarrone/learning-java/tree/master/Tutorial27%20-%20Encapsulation%20and%20the%20API%20Docs)
 28. [Casting Numerical Values](https://github.com/elenagarrone/learning-java/tree/master/Tutorial28%20-%20Casting%20Numerical%20Values)
 29. [Upcasting and Downcasting](https://github.com/elenagarrone/learning-java/tree/master/Tutorial29%20-%20Upcasting%20and%20Downcasting)
+30. [Using Generics](https://github.com/elenagarrone/learning-java/tree/master/Tutorial30%20-%20Using%20Generics)
+31. [Generics and Wildcards](https://github.com/elenagarrone/learning-java/tree/master/Tutorial31%20-%20Generics%20and%20Wildcards)
