@@ -26,3 +26,8 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 22. [Inheritance](https://github.com/elenagarrone/learning-java/tree/master/Tutorial22%20-%20Inheritance)
 23. [Packages](https://github.com/elenagarrone/learning-java/tree/master/Tutorial23%20-%20Packages)
 24. [Interfaces](https://github.com/elenagarrone/learning-java/tree/master/Tutorial24%20-%20Interfaces)
+25. [Public, Private, Protected](https://github.com/elenagarrone/learning-java/tree/master/Tutorial25%20-%20Public%2C%20Private%2C%20Protected)
+26. [Polymorphism](https://github.com/elenagarrone/learning-java/tree/master/Tutorial26%20-%20Polymorphism)
+27. [Encapsulation and the API Docs](https://github.com/elenagarrone/learning-java/tree/master/Tutorial27%20-%20Encapsulation%20and%20the%20API%20Docs)
+28. [Casting Numerical Values](https://github.com/elenagarrone/learning-java/tree/master/Tutorial28%20-%20Casting%20Numerical%20Values)
+29. [Upcasting and Downcasting](https://github.com/elenagarrone/learning-java/tree/master/Tutorial29%20-%20Upcasting%20and%20Downcasting)
