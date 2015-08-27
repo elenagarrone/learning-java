@@ -8,7 +8,7 @@ public class Oak extends Plant {
 		
 		this.size = "large";
 		
-		// No access specifier.
+		// No access specifier. Works because Oak and Plant are in the same package.
 		this.height = 10;
 	}
 	
