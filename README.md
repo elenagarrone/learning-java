@@ -33,3 +33,7 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 29. [Upcasting and Downcasting](https://github.com/elenagarrone/learning-java/tree/master/Tutorial29%20-%20Upcasting%20and%20Downcasting)
 30. [Using Generics](https://github.com/elenagarrone/learning-java/tree/master/Tutorial30%20-%20Using%20Generics)
 31. [Generics and Wildcards](https://github.com/elenagarrone/learning-java/tree/master/Tutorial31%20-%20Generics%20and%20Wildcards)
+32. [Anonymous Classes](https://github.com/elenagarrone/learning-java/tree/master/Tutorial32%20-%20Anonymous%20Classes)
+33. [Reading Files Using Scanner](https://github.com/elenagarrone/learning-java/tree/master/Tutorial33%20-%20Reading%20Files%20Using%20Scanner)
+34. [Handling Exeptions](https://github.com/elenagarrone/learning-java/tree/master/Tutorial34%20-%20Handling%20Exeptions)
+35. [Multiple Exceptions](https://github.com/elenagarrone/learning-java/tree/master/Tutorial35%20-%20Multiple%20Exceptions)
