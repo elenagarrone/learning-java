@@ -37,3 +37,6 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 33. [Reading Files Using Scanner](https://github.com/elenagarrone/learning-java/tree/master/Tutorial33%20-%20Reading%20Files%20Using%20Scanner)
 34. [Handling Exeptions](https://github.com/elenagarrone/learning-java/tree/master/Tutorial34%20-%20Handling%20Exeptions)
 35. [Multiple Exceptions](https://github.com/elenagarrone/learning-java/tree/master/Tutorial35%20-%20Multiple%20Exceptions)
+36. [Runtime vs. Checked Exceptions](https://github.com/elenagarrone/learning-java/tree/master/Tutorial36%20-%20Runtime%20vs.%20Checked%20Exceptions)
+37. [Abstract Classes](https://github.com/elenagarrone/learning-java/tree/master/Tutorial37%20-%20Abstract%20Classes)
+38. [Reading Files With File Reader](https://github.com/elenagarrone/learning-java/tree/master/Tutorial38%20-%20Reading%20Files%20With%20File%20Reader)
