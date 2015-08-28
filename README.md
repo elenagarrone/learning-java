@@ -43,3 +43,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 39. [Try-With-Resources](https://github.com/elenagarrone/learning-java/tree/master/Tutorial39%20-%20Try-With-Resources)
 40. [Creating and Writing Text Files](https://github.com/elenagarrone/learning-java/tree/master/Tutorial40%20-%20Creating%20and%20Writing%20Text%20Files)
 41. [The equals() Method](https://github.com/elenagarrone/learning-java/tree/master/Tutorial41%20-%20The%20equals()%20Method)
+42. [Inner Classes](https://github.com/elenagarrone/learning-java/tree/master/Tutorial42%20-%20Inner%20Classes)
