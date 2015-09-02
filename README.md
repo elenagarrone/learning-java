@@ -46,3 +46,5 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 42. [Inner Classes](https://github.com/elenagarrone/learning-java/tree/master/Tutorial42%20-%20Inner%20Classes)
 43. [Enum Types: Basic and Advanced Usage](https://github.com/elenagarrone/learning-java/tree/master/Tutorial43%20-%20Enum%20Types%20(Basic%20and%20Advanced%20Usage))
 44. [Recursion: A Useful Trick Up Your Sleeve](https://github.com/elenagarrone/learning-java/tree/master/Tutorial44%20-%20Recursion%20(A%20Useful%20Trick%20Up%20Your%20Sleeve))
+45. [Serialization: Saving Objects to Files](https://github.com/elenagarrone/learning-java/tree/master/Tutorial45%20-%20Serialization%20(Saving%20Objects%20to%20Files))
+46. [Serializing Arrays](https://github.com/elenagarrone/learning-java/tree/master/Tutorial46%20-%20Serializing%20Arrays)
