@@ -44,3 +44,5 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 40. [Creating and Writing Text Files](https://github.com/elenagarrone/learning-java/tree/master/Tutorial40%20-%20Creating%20and%20Writing%20Text%20Files)
 41. [The equals() Method](https://github.com/elenagarrone/learning-java/tree/master/Tutorial41%20-%20The%20equals()%20Method)
 42. [Inner Classes](https://github.com/elenagarrone/learning-java/tree/master/Tutorial42%20-%20Inner%20Classes)
+43. [Enum Types: Basic and Advanced Usage](https://github.com/elenagarrone/learning-java/tree/master/Tutorial43%20-%20Enum%20Types%20(Basic%20and%20Advanced%20Usage))
+44. [Recursion: A Useful Trick Up Your Sleeve](https://github.com/elenagarrone/learning-java/tree/master/Tutorial44%20-%20Recursion%20(A%20Useful%20Trick%20Up%20Your%20Sleeve))
