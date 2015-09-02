@@ -48,3 +48,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 44. [Recursion: A Useful Trick Up Your Sleeve](https://github.com/elenagarrone/learning-java/tree/master/Tutorial44%20-%20Recursion%20(A%20Useful%20Trick%20Up%20Your%20Sleeve))
 45. [Serialization: Saving Objects to Files](https://github.com/elenagarrone/learning-java/tree/master/Tutorial45%20-%20Serialization%20(Saving%20Objects%20to%20Files))
 46. [Serializing Arrays](https://github.com/elenagarrone/learning-java/tree/master/Tutorial46%20-%20Serializing%20Arrays)
+47. [The Transient Keyword and More Serialization](https://github.com/elenagarrone/learning-java/tree/master/Tutorial47%20-%20The%20Transient%20Keyword%20and%20More%20Serialization)
