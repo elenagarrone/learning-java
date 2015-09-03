@@ -49,3 +49,5 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 45. [Serialization: Saving Objects to Files](https://github.com/elenagarrone/learning-java/tree/master/Tutorial45%20-%20Serialization%20(Saving%20Objects%20to%20Files))
 46. [Serializing Arrays](https://github.com/elenagarrone/learning-java/tree/master/Tutorial46%20-%20Serializing%20Arrays)
 47. [The Transient Keyword and More Serialization](https://github.com/elenagarrone/learning-java/tree/master/Tutorial47%20-%20The%20Transient%20Keyword%20and%20More%20Serialization)
+48. [ArrayList: Arrays the Easy Way](https://github.com/elenagarrone/learning-java/tree/master/Tutorial48%20-%20ArrayList%20(Arrays%20the%20Easy%20Way))
+49. [Linked Lists](https://github.com/elenagarrone/learning-java/tree/master/Tutorial49%20-%20Linked%20Lists)
