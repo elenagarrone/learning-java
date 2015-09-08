@@ -87,6 +87,7 @@ public class Application {
 		
 		// Find out which elements are different to the two sets:
 		Set<String> difference = new HashSet<String>(set1);
+		
 		difference.removeAll(set2);
 		
 		System.out.println(difference);

@@ -53,3 +53,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 49. [Linked Lists](https://github.com/elenagarrone/learning-java/tree/master/Tutorial49%20-%20Linked%20Lists)
 50. [HashMap: Retrieving Objects via a Key](https://github.com/elenagarrone/learning-java/tree/master/Tutorial50%20-%20HashMap%20(Retrieving%20Objects%20via%20a%20Key))
 51. [Sorted Maps](https://github.com/elenagarrone/learning-java/tree/master/Tutorial51%20-%20Sorted%20Maps)
+52. [Sets](https://github.com/elenagarrone/learning-java/tree/master/Tutorial52%20-%20Sets)
