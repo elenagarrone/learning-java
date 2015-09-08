@@ -54,3 +54,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 50. [HashMap: Retrieving Objects via a Key](https://github.com/elenagarrone/learning-java/tree/master/Tutorial50%20-%20HashMap%20(Retrieving%20Objects%20via%20a%20Key))
 51. [Sorted Maps](https://github.com/elenagarrone/learning-java/tree/master/Tutorial51%20-%20Sorted%20Maps)
 52. [Sets](https://github.com/elenagarrone/learning-java/tree/master/Tutorial52%20-%20Sets)
+53. [Using Custom Objects in Sets and as Keys in Maps](https://github.com/elenagarrone/learning-java/tree/master/Tutorial53%20-%20Using%20Custom%20Objects%20in%20Sets%20and%20as%20Keys%20in%20Maps)
