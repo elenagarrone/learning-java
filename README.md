@@ -57,3 +57,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 53. [Using Custom Objects in Sets and as Keys in Maps](https://github.com/elenagarrone/learning-java/tree/master/Tutorial53%20-%20Using%20Custom%20Objects%20in%20Sets%20and%20as%20Keys%20in%20Maps)
 54. [Sorting Lists](https://github.com/elenagarrone/learning-java/tree/master/Tutorial54%20-%20Sorting%20Lists)
 55. [Natural Ordering](https://github.com/elenagarrone/learning-java/tree/master/Tutorial55%20-%20Natural%20Ordering)
+56. [Queues](https://github.com/elenagarrone/learning-java/tree/master/Tutorial56%20-%20Queues)
