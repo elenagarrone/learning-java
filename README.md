@@ -52,3 +52,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 48. [ArrayList: Arrays the Easy Way](https://github.com/elenagarrone/learning-java/tree/master/Tutorial48%20-%20ArrayList%20(Arrays%20the%20Easy%20Way))
 49. [Linked Lists](https://github.com/elenagarrone/learning-java/tree/master/Tutorial49%20-%20Linked%20Lists)
 50. [HashMap: Retrieving Objects via a Key](https://github.com/elenagarrone/learning-java/tree/master/Tutorial50%20-%20HashMap%20(Retrieving%20Objects%20via%20a%20Key))
+51. [Sorted Maps](https://github.com/elenagarrone/learning-java/tree/master/Tutorial51%20-%20Sorted%20Maps)
