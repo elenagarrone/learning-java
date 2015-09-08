@@ -51,4 +51,4 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 47. [The Transient Keyword and More Serialization](https://github.com/elenagarrone/learning-java/tree/master/Tutorial47%20-%20The%20Transient%20Keyword%20and%20More%20Serialization)
 48. [ArrayList: Arrays the Easy Way](https://github.com/elenagarrone/learning-java/tree/master/Tutorial48%20-%20ArrayList%20(Arrays%20the%20Easy%20Way))
 49. [Linked Lists](https://github.com/elenagarrone/learning-java/tree/master/Tutorial49%20-%20Linked%20Lists)
-50. [Tutorial50 - HashMap: Retrieving Objects via a Key](https://github.com/elenagarrone/learning-java/tree/master/Tutorial50%20-%20HashMap%20(Retrieving%20Objects%20via%20a%20Key))
+50. [HashMap: Retrieving Objects via a Key](https://github.com/elenagarrone/learning-java/tree/master/Tutorial50%20-%20HashMap%20(Retrieving%20Objects%20via%20a%20Key))
