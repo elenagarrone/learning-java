@@ -58,3 +58,5 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 54. [Sorting Lists](https://github.com/elenagarrone/learning-java/tree/master/Tutorial54%20-%20Sorting%20Lists)
 55. [Natural Ordering](https://github.com/elenagarrone/learning-java/tree/master/Tutorial55%20-%20Natural%20Ordering)
 56. [Queues](https://github.com/elenagarrone/learning-java/tree/master/Tutorial56%20-%20Queues)
+57. [Using Iterators](https://github.com/elenagarrone/learning-java/tree/master/Tutorial57%20-%20Using%20Iterators)
+58. [Implementing Iterable](https://github.com/elenagarrone/learning-java/tree/master/Tutorial58%20-%20%20Implementing%20Iterable)
