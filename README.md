@@ -60,3 +60,5 @@ Following the tutorial by John Purcell on [Cave of Programming](http://courses.c
 56. [Queues](https://github.com/elenagarrone/learning-java/tree/master/Tutorial56%20-%20Queues)
 57. [Using Iterators](https://github.com/elenagarrone/learning-java/tree/master/Tutorial57%20-%20Using%20Iterators)
 58. [Implementing Iterable](https://github.com/elenagarrone/learning-java/tree/master/Tutorial58%20-%20%20Implementing%20Iterable)
+59. [Deciding Which Collection to Use](https://github.com/elenagarrone/learning-java/tree/master/Tutorial59%20%20-%20Deciding%20Which%20Collection%20to%20Use)
+60. [Complex Data Structures](https://github.com/elenagarrone/learning-java/tree/master/Tutorial60%20-%20Complex%20Data%20Structures)
